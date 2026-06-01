@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Cherry-Blossom
+Comment=Cherry blossom theme which looks good when paired with a cherry blossom themed desktop wallpaper.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Cherry-Blossom
+GtkTheme=Cherry-Blossom
+IconTheme=Cherry-Blossom
+MetacityTheme=Cherry-Blossom
