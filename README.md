@@ -26,3 +26,5 @@ browser.theme.content-theme = 0							<br>
 I'm fine with this theme being packaged as part of a theme pack for distros.<br>
 I found a few references to GPL3+ in the files produced by Oomox, also Oomox is GPL3+<br>
 so in spirit of Open-Source and the GPL3+, I'll add the GPL3+ license to this repo<br>
+
+<meta name="google-site-verification" content="YUswnNJULp941kFEqBqJor5vCXzeznJGetTk8IWGufw" />
